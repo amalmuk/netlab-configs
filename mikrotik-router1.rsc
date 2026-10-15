@@ -1,4 +1,4 @@
-/ip address add address=192.168.10.4/24 interface=ether1
+/ip address add address=192.168.10.40/24 interface=ether1
 /ip route add gateway=192.168.10.254
 #test de la zone index
 #configuration du routeur Routeur1
